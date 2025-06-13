@@ -1,5 +1,5 @@
 {
-    "name": "RCV/Core",
+    "name": "core",
     "description": "Core module for the application",
     "type": "laravel-module",
     "require": {
